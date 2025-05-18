@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<!-- insert your AIML categories here -->
+<category>
+    <pattern>Hola</pattern>
+    <template>Hola! Soy Entrenados, tu asistente virtual para tu practica deportiva. ¿Cómo te llamas? ¿En que puedo ayudarte?</template>
+</category>
+<category>
+    <pattern>Me llamo Francisco, Necesito saber si hay práctica con el profesor Patrick el lunes en la tarde </pattern>
+    <template>Todas las semanas, de lunes a jueves, está el profesor Patrick en los entrenamientos de fúbtol. ¿Alguna otra duda?</template>
+</category>
+<category>
+    <pattern>¿Es necesario llevar canilleras  </pattern>
+    <template>Si, es obligatorio que lleves puestas las canilleras, recuerda que es para tu protección personal. ¿Alguna otra duda?</template>
+</category>
+<category>
+    <pattern>No, muchas gracias</pattern>
+    <template>A la orden! desde Entrenados estamos siempre listos para guiarte. No dudes en visitar nuestra página web para mas detalles. Feliz día!</template>
+</category>
+<category>
+    <pattern></pattern>
+    <template></template>
+</category>
+<category>
+    <pattern>Click node to edit pattern</pattern>
+    <template>Click node to edit template</template>
+</category>
+</aiml>
